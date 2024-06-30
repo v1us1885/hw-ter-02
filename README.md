@@ -86,7 +86,7 @@
 
 ### Решение 4
 
-![alt text](console-2vm.png)
+![alt text](outputs.png)
 
 ### Задание 5
 
